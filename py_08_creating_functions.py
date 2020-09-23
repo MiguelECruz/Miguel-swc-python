@@ -2,7 +2,8 @@
 #  Software Carpentry's "Programming with Python"
 # Team member: Miguel E. Cruz Molina
 # Student ID #: 801-16-1956
-# Date: 9-16-2020
+# Date of creation: 9-21-2020
+# Date of last edit: 9-22-2020
 
 # Import packages used in module:
 
