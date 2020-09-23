@@ -1,4 +1,4 @@
-# Code for "Tabular Data", module #3 from
+# Code for "Creating Functions", module #8 from
 #  Software Carpentry's "Programming with Python"
 # Team member: Miguel E. Cruz Molina
 # Student ID #: 801-16-1956
